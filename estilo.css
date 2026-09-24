@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.superior {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    overflow: auto;
+}
+
+.logo {
+    width: 120px;
+    float: left;
+}
+
+.bloco-perfil {
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.perfilcnjt, 
+.texto-perfil {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.perfilcnjt img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+
+.texto-perfil h6 {
+    margin: 0;
+    color: #aaaaaa;
+}
